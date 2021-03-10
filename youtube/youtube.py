@@ -18,7 +18,7 @@ def download(url: str) -> str:
 
     if duration > DURATION_LIMIT:
         raise DurationLimitError(
-            f"**Hêllẞø†:** Videos longer than {DURATION_LIMIT} minute(s) aren't allowed, the provided video is {duration} minute(s)"
+            f"**𝕷𝖊𝖌𝖊𝖓𝖉𝖘:** Videos longer than {DURATION_LIMIT} minute(s) aren't allowed, the provided video is {duration} minute(s)"
         )
 
     ydl.download([url])
