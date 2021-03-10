@@ -32,3 +32,4 @@ Get STRING_NAME from here:
 - [Marvin](https://github.com/BlackStoneReborn): bug reporter
 - [Laky](https://github.com/Laky-64) & [Andrew](https://github.com/AndrewLaneX): PyTgCalls
 - [Original Repo](https://github.com/suprojects/CallsMusic)
+- Full Credits Goes to Hell Bot officials 
