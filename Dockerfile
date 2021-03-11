@@ -8,7 +8,7 @@ RUN apt-get update -y && \
         python3-pip \
         git \
         ffmpeg && \
-    git clone https://github.com/TheVaders/MusicBot.git && \
+    git clone https://github.com/srinivasop/PIKA-PIKA-MUSIC.git && \
     cd MusicBot && \
     git clone https://github.com/pytgcalls/pytgcalls.git && \
     cd pytgcalls && \
